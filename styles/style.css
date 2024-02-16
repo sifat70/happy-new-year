@@ -1,3 +1,19 @@
-.hello{
-    background-color: azure;
+.benner{
+    width: 80%;
+    margin: 0 auto;
+    background: url('../images/Banner\ Image.png');
+    padding-bottom: 100px;
+    padding-top: 100px;
+    border-radius: 8px;
+
+}
+.banner-title{
+    color: azure;
+    text-align: center;
+    font-size: 30px;
+}
+.banner-text{
+    color: azure;
+    text-align: center;
+    font-size: 50px;
 }
